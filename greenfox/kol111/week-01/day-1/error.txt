@@ -1,0 +1,2 @@
+bash: mondjviccet: command not found
+bash: asd: command not found
